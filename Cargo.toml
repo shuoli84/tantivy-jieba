@@ -10,6 +10,6 @@ keywords = ["tantivy", "jieba"]
 license = "MIT"
 
 [dependencies]
-tantivy = "0.16.0"
+tantivy = "*"
 jieba-rs = "0.6.4"
 lazy_static = "1.4.0"
